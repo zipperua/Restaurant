@@ -1,5 +1,3 @@
-import practice.practice11.Main;
-
 public class Restaurant {
     public static void main(String[] args) {
 
